@@ -24,5 +24,5 @@ To view the portfolio landing page:
 ## Check this Repo out for Socials Page
 [Socials Page](https://github.com/azuswr/free-soical-site)
 ## Credits
-uncared & azuswr
+[uncared](https://github.com/uncared/) & [azuswr](https://github.com/azuswr/)
 

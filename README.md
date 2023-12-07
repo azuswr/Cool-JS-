@@ -21,7 +21,8 @@ To view the portfolio landing page:
 1. Clone this repository to your local machine.
 2. Open the `index.html` file in your preferred web browser.
 3. Explore the landing page and navigate through the different sections.
-
+## Check this Repo out for Socials Page
+[Socials Page](https://github.com/azuswr/free-soical-site)
 ## Credits
 uncared & azuswr
 

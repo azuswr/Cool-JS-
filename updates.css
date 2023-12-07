@@ -1,49 +1,48 @@
 @font-face {
-    font-family: 'Proto Mono';
-    src: url('/font/Proto\ Mono\ Regular.ttf') format('truetype');
-    font-weight: 700;
-  }
-  
-  
-  .badge-container {
-     width: 250px;
-     height: 55px;
-     overflow: hidden;
-     border-radius: 5px;
-   }
-  
-  .badge-image {
-     display: flex;
-     justify-content: center;
-     align-items: center;
-     width: 100%;
-     height: 100%;
-   }
-  
-  .home__resume {
-    display: flex;
-    flex-direction: row;
-    align-items: flex-end;
-    position: flex;
-    top: 20px; 
-    right: 5px;
-  }
-  
-  .resume-button {
-    background-color: transparent;
-    color: #fff;
-    padding: 10px 20px; 
-    margin-bottom: 10px;
-    border: none;
-    border-radius: 5px; 
-    text-transform: uppercase;
-    letter-spacing: 1px; 
-    text-decoration: none;
-    transition: background-color 0.3s ease, color 0.3s ease;
-  }
-  
-  .resume-button:hover {
-    background-color: rgba(0,0,0,0.7);
-    color: #fc7a00;
-    cursor: pointer;
-  }
+  font-family: 'Proto Mono';
+  src: url('/font/Proto\ Mono\ Regular.ttf') format('truetype');
+  font-weight: 700;
+}
+
+.badge-container {
+  width: 250px;
+  height: 55px;
+  overflow: hidden;
+  border-radius: 5px;
+}
+
+.badge-image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+
+.home__resume {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  position: flex;
+  top: 20px;
+  right: 5px;
+}
+
+.resume-button {
+  background-color: transparent;
+  color: #fff;
+  padding: 10px 20px;
+  margin-bottom: 10px;
+  border: none;
+  border-radius: 5px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  text-decoration: none;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.resume-button:hover {
+  background-color: rgba(0, 0, 0, 0.7);
+  color: #fc7a00;
+  cursor: pointer;
+}

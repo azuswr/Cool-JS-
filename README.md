@@ -23,6 +23,5 @@ To view the portfolio landing page:
 3. Explore the landing page and navigate through the different sections.
 
 ## Credits
-azuswr
-huge Credits to uncared
+uncared & azuswr
 
